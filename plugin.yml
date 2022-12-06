@@ -1,0 +1,16 @@
+name: VotePlus
+main: fap.pigeon.voteplus.VotePlus
+version: "1.0.6"
+author: FillAmeaPixel Network
+api: ["1.0.0"]
+commands:
+  vote:
+    description: 打开投票面板
+  ban:
+    description: VotePlus Ban
+  addmoney:
+    description: VotePlus MoneyAPI
+  reducemoney:
+    description: VotePlus MoneyAPI
+  getmoney:
+    description: VotePlus MoneyAPI
